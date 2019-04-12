@@ -1,0 +1,5 @@
+{
+  "version": 2,
+  "name": "kraken-graphql",
+  "builds": [{ "src": "*.go", "use": "@now/go" }]
+}
